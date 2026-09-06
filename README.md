@@ -99,6 +99,10 @@
                     <th>April</th>
 		    		<th>May </th>
 		    		<th>June</th>
+					<th>July</th>
+					<th>August</th>
+					<th>September</th>
+					
 		  		 
 				 
             
@@ -125,8 +129,11 @@
                     <td>Lucky Peba</td>
                     <td>1000</td>
                     <td>1000</td>
-		    <td>1000</td>
-		    <td>1000</td>
+					<td>1000</td>
+					<td>1000</td>
+					<td>1000</td>
+		            <td>1000</td>
+		            <td>1000</td>
                     <td>1000</td>
                 </tr>
                 <tr>
